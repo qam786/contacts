@@ -1,7 +1,10 @@
+---
 layout: page
 title: "Martin | Hild, P.A. Contacts"
-permalink: https://qam786.github.io/contacts/
+permalink: /contacts/
+---
 
-#Contact Cards Download
+# Contacts
+
 - [Gregory Martin](./GSM.vcf)
 - [Quinn Martin](./QAM.vcf)
