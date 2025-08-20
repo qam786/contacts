@@ -7,9 +7,9 @@ TITLE:Partner
 TEL;WORK;VOICE:(407) 660-4488
 TEL;WORK;FAX:(407) 660-4540
 TEL;FAX:(407) 660-4540
-ADR;WORK;PREF:555 Winderley Place, Suite 415;Maitland;FL;32751;United States of America
+ADR;WORK;PREF:;;555 Winderley Place, Suite 415;Maitland;Florida;32751;United States of America
 LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE:555 Winderley Place, Suite 415=0D=0A=
-Maitland, FL  32751
+Maitland, Florida 32751
 X-MS-OL-DEFAULT-POSTAL-ADDRESS:2
 URL;WORK:https://martinhild.com
 EMAIL;PREF;INTERNET:pab@martinhild.com
@@ -35,4 +35,5 @@ X-MS-CARDPICTURE;TYPE=JPEG;ENCODING=BASE64:
 X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="left" bgcolor="ffffff"><img xmlns="" align="fit" area="16" use="cardpicture"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="org" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="title" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="telwork" align="left" dir="ltr" color="d48d2a" size="8"><label align="right" color="626262">Work</label></fld><fld xmlns="" prop="email" align="left" dir="ltr" color="d48d2a" size="8"/><fld xmlns="" prop="email2" align="left" dir="ltr" color="d48d2a" size="8"/><fld xmlns="" prop="addrwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="webwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
 REV:20250820T193423Z
 END:VCARD
+
 
